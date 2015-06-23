@@ -1,0 +1,17 @@
+{
+    "name": "dfacts/staticmaplite",
+    "description": "simple php staticmap script.",
+    "keywords": ["staticmap"],
+    "homepage": "http://staticmap.openstreetmap.de",
+    "type": "library",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "dFacts Network",
+            "homepage": "http://www.dfacts.de"
+        }
+    ],
+    "autoload": {
+        "psr-0": {"staticMapLite": ""}
+    }
+}
